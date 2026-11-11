@@ -10,7 +10,7 @@ kdataset = 1; % Kodak dataset
 %load('kodakInput.mat')
 %% Parameters
 nm = 16; % number of masks
-codes  = 4; % 1 Random, 2 Sphere Packing, 3 DCT, 4 Hadamard
+codes  = 1; % 1 Random, 2 Sphere Packing, 3 DCT, 4 Hadamard
 complementary = 1; % 0 No complementary, 1 Complementary
 ndataset = 24; % number of images Kodak
 typePropagation  = 1; % 0  one step, 1 two steps, 2 Fresnel
